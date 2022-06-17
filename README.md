@@ -11,3 +11,7 @@ Params:
 
 `--code-pattern` Beginning of your folders names -> `Code` will go through all folders starting with `Code`, such as `Code`, `Code2`, `Code3`...
 `--code-dir` Root folder for your code folders
+
+Just download `mybr.sh`
+and run `chmod +x mybr.sh` to make it executable
+
